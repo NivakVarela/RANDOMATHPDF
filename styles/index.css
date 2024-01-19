@@ -53,11 +53,7 @@ nav li:hover::after {
     width: 100%;
 }
 
-section {
-    padding: 30px; /* Aumenté el padding para dar más espacio dentro de las secciones */
-    margin-top: 20px; /* Espacio entre el header y la sección */
-    border-top: 1px solid rgb(228, 93, 40); /* Línea superior de la sección */
-}
+
 
 section:hover {
     border-top-color: transparent; /* Oculta la línea superior al no estar sobre la sección */
